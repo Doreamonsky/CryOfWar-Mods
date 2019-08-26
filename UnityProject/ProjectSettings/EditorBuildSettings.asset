@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Res/ArtPackage/Sence/StartUp/StartUp.unity
+    guid: 94d7001086e0d3e42a72bfc605d34d1a
+  - enabled: 1
+    path: Assets/Res/ArtPackage/Sence/LoadScenePreparation.unity
+    guid: d7f8e99f5faceb54b9ce4f333f26d009
+  - enabled: 1
+    path: Assets/Res/ArtPackage/Sence/PoolScene/PoolScene.unity
+    guid: d58a128113499de40842cbfa6c9ff0cc
+  - enabled: 1
+    path: Assets/Res/Scene/Entrance/GameEntrance.unity
+    guid: 5c2eb75fdfb2356458b1726817c57535
+  - enabled: 1
+    path: Assets/Res/Scene/Garage/Garage.unity
+    guid: 1bbfea14fb2cb5248a3a3a7038c49309
+  m_configObjects: {}

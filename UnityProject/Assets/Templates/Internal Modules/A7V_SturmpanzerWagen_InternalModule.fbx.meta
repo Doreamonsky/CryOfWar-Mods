@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: 9a8a07c19b46b4e1fa2490c9954b2150
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: AmmoShell
+    100004: Breech
+    100006: Commander1
+    100008: Engine
+    100010: Gunner1
+    100012: Gunner2
+    100014: Gunner3
+    100016: Gunner4
+    100018: Gunner5
+    100020: Gunner6
+    100022: Gunner7
+    100024: HeatSink
+    100026: Observer1
+    100028: Observer2
+    100030: OilTank
+    100032: Reloader
+    100034: Sighting
+    100036: Transmission
+    100038: Traversing
+    100040: Weapon
+    100042: Gunner6.001
+    100044: Reloader.001
+    100046: Track
+    100048: Track.001
+    400000: //RootNode
+    400002: AmmoShell
+    400004: Breech
+    400006: Commander1
+    400008: Engine
+    400010: Gunner1
+    400012: Gunner2
+    400014: Gunner3
+    400016: Gunner4
+    400018: Gunner5
+    400020: Gunner6
+    400022: Gunner7
+    400024: HeatSink
+    400026: Observer1
+    400028: Observer2
+    400030: OilTank
+    400032: Reloader
+    400034: Sighting
+    400036: Transmission
+    400038: Traversing
+    400040: Weapon
+    400042: Gunner6.001
+    400044: Reloader.001
+    400046: Track
+    400048: Track.001
+    2300000: AmmoShell
+    2300002: Breech
+    2300004: Commander1
+    2300006: Engine
+    2300008: Gunner1
+    2300010: Gunner2
+    2300012: Gunner3
+    2300014: Gunner4
+    2300016: Gunner5
+    2300018: Gunner6
+    2300020: Gunner7
+    2300022: HeatSink
+    2300024: Observer1
+    2300026: Observer2
+    2300028: OilTank
+    2300030: Reloader
+    2300032: Sighting
+    2300034: Transmission
+    2300036: Traversing
+    2300038: Weapon
+    2300040: Gunner6.001
+    2300042: Reloader.001
+    2300044: Track
+    2300046: Track.001
+    3300000: AmmoShell
+    3300002: Breech
+    3300004: Commander1
+    3300006: Engine
+    3300008: Gunner1
+    3300010: Gunner2
+    3300012: Gunner3
+    3300014: Gunner4
+    3300016: Gunner5
+    3300018: Gunner6
+    3300020: Gunner7
+    3300022: HeatSink
+    3300024: Observer1
+    3300026: Observer2
+    3300028: OilTank
+    3300030: Reloader
+    3300032: Sighting
+    3300034: Transmission
+    3300036: Traversing
+    3300038: Weapon
+    3300040: Gunner6.001
+    3300042: Reloader.001
+    3300044: Track
+    3300046: Track.001
+    4300000: Breech
+    4300002: HeatSink
+    4300004: OilTank
+    4300006: AmmoShell
+    4300008: Sighting
+    4300010: Traversing
+    4300012: Weapon
+    4300014: Transmission
+    4300016: Engine
+    4300018: Reloader
+    4300020: Commander1
+    4300022: Gunner1
+    4300024: Gunner2
+    4300026: Gunner3
+    4300028: Observer1
+    4300030: Observer2
+    4300032: Reloader.001
+    4300034: Gunner4
+    4300036: Gunner5
+    4300038: Gunner6.001
+    4300040: Gunner7
+    4300042: Track.001
+    4300044: Track
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: c93feffd236a2de478e583b745b35fd9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

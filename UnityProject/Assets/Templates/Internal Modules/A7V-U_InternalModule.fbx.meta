@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: 0b588c970606a2447b58266741bd2e23
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: AmmoShell
+    100004: Breech01
+    100006: Breech02
+    100008: Commander
+    100010: Driver
+    100012: Engine
+    100014: Gunner01
+    100016: Gunner02
+    100018: HeatSink
+    100020: LTrack
+    100022: Mechanic
+    100024: Observer
+    100026: Obsever
+    100028: OilTank
+    100030: Reloader01
+    100032: Reloader02
+    100034: RTrack
+    100036: Transmission
+    100038: Traversing01
+    100040: Traversing02
+    100042: Weapon01
+    100044: Weapon02
+    400000: //RootNode
+    400002: AmmoShell
+    400004: Breech01
+    400006: Breech02
+    400008: Commander
+    400010: Driver
+    400012: Engine
+    400014: Gunner01
+    400016: Gunner02
+    400018: HeatSink
+    400020: LTrack
+    400022: Mechanic
+    400024: Observer
+    400026: Obsever
+    400028: OilTank
+    400030: Reloader01
+    400032: Reloader02
+    400034: RTrack
+    400036: Transmission
+    400038: Traversing01
+    400040: Traversing02
+    400042: Weapon01
+    400044: Weapon02
+    2100000: No Name
+    2300000: AmmoShell
+    2300002: Breech01
+    2300004: Breech02
+    2300006: Commander
+    2300008: Driver
+    2300010: Engine
+    2300012: Gunner01
+    2300014: Gunner02
+    2300016: HeatSink
+    2300018: LTrack
+    2300020: Mechanic
+    2300022: Observer
+    2300024: Obsever
+    2300026: OilTank
+    2300028: Reloader01
+    2300030: Reloader02
+    2300032: RTrack
+    2300034: Transmission
+    2300036: Traversing01
+    2300038: Traversing02
+    2300040: Weapon01
+    2300042: Weapon02
+    3300000: AmmoShell
+    3300002: Breech01
+    3300004: Breech02
+    3300006: Commander
+    3300008: Driver
+    3300010: Engine
+    3300012: Gunner01
+    3300014: Gunner02
+    3300016: HeatSink
+    3300018: LTrack
+    3300020: Mechanic
+    3300022: Observer
+    3300024: Obsever
+    3300026: OilTank
+    3300028: Reloader01
+    3300030: Reloader02
+    3300032: RTrack
+    3300034: Transmission
+    3300036: Traversing01
+    3300038: Traversing02
+    3300040: Weapon01
+    3300042: Weapon02
+    4300000: RTrack
+    4300002: LTrack
+    4300004: Observer
+    4300006: Obsever
+    4300008: Mechanic
+    4300010: Commander
+    4300012: Reloader01
+    4300014: Gunner01
+    4300016: Gunner02
+    4300018: Reloader02
+    4300020: Driver
+    4300022: AmmoShell
+    4300024: Traversing02
+    4300026: Breech02
+    4300028: Weapon02
+    4300030: Weapon01
+    4300032: Breech01
+    4300034: Traversing01
+    4300036: Transmission
+    4300038: HeatSink
+    4300040: OilTank
+    4300042: Engine
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

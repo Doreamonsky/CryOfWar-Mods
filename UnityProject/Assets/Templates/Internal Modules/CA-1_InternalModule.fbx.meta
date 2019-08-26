@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: 8a76262924541d145bdbfbe66d06bd14
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: AmmoShell
+    100002: Breech
+    100004: //RootNode
+    100006: Commander
+    100008: Driver
+    100010: Gunner
+    100012: LTrack
+    100014: MGuner01
+    100016: MGuner02
+    100018: Plane
+    100020: Plane.001
+    100022: Plane.003
+    100024: Reloader
+    100026: RTrack
+    100028: Transmission
+    100030: Traversing
+    100032: Weapon
+    400000: AmmoShell
+    400002: Breech
+    400004: //RootNode
+    400006: Commander
+    400008: Driver
+    400010: Gunner
+    400012: LTrack
+    400014: MGuner01
+    400016: MGuner02
+    400018: Plane
+    400020: Plane.001
+    400022: Plane.003
+    400024: Reloader
+    400026: RTrack
+    400028: Transmission
+    400030: Traversing
+    400032: Weapon
+    2100000: No Name
+    2100002: InternalModule
+    2300000: AmmoShell
+    2300002: Breech
+    2300004: Commander
+    2300006: Driver
+    2300008: Gunner
+    2300010: LTrack
+    2300012: MGuner01
+    2300014: MGuner02
+    2300016: Plane
+    2300018: Plane.001
+    2300020: Plane.003
+    2300022: Reloader
+    2300024: RTrack
+    2300026: Transmission
+    2300028: Traversing
+    2300030: Weapon
+    3300000: AmmoShell
+    3300002: Breech
+    3300004: Commander
+    3300006: Driver
+    3300008: Gunner
+    3300010: LTrack
+    3300012: MGuner01
+    3300014: MGuner02
+    3300016: Plane
+    3300018: Plane.001
+    3300020: Plane.003
+    3300022: Reloader
+    3300024: RTrack
+    3300026: Transmission
+    3300028: Traversing
+    3300030: Weapon
+    4300000: LTrack
+    4300002: RTrack
+    4300004: AmmoShell
+    4300006: Commander
+    4300008: MGuner01
+    4300010: MGuner02
+    4300012: Driver
+    4300014: Gunner
+    4300016: Reloader
+    4300018: Breech
+    4300020: Weapon
+    4300022: Traversing
+    4300024: Plane.003
+    4300026: Transmission
+    4300028: Plane.001
+    4300030: Plane
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
