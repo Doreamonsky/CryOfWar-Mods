@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1042130866, guid: 27b38c154a790654fb5c2f5fe21a5993, type: 3}
+  m_Name: BuildPipline-Scene-Template-Scene
+  m_EditorClassIdentifier: 
+  linkedObjects:
+  - {fileID: 102900000, guid: 2318dc8f6ecf3eb4899b2c9dcec2016c, type: 3}
+  - {fileID: 11400000, guid: 767d1f4b15f8aa3409842c9b05c33991, type: 2}
+  linkedModPackage: {fileID: 0}
