@@ -4,6 +4,6 @@
 
 [Local Test](Tutorials/LocalTest/LocalTest.md)
 
-[Upload to Workshop](Tutorials/UploadWorkshop/UploadWorkshop.md)
+[Upload to Workshop](Tutorials/UploadWorkShop/UploadWorkshop.md)
 
 This page is still under construction.
